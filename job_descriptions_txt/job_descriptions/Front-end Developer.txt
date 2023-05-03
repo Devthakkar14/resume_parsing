@@ -1,0 +1,3 @@
+Front-end Developer
+
+Job Description: A front-end developer is responsible for designing and developing the user interface of websites and web applications. They use programming languages such as HTML, CSS, and JavaScript to create responsive and visually appealing web pages. Requirements: Bachelor's degree in Computer Science or related field, at least 2 years of experience in front-end development, proficiency in HTML, CSS, and JavaScript, experience with front-end frameworks such as React or Angular, strong problem-solving and analytical skills, excellent communication and collaboration skills.

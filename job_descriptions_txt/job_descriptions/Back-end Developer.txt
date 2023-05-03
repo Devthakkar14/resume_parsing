@@ -1,0 +1,3 @@
+Back-end Developer
+
+Job Description: A back-end developer is responsible for designing and developing the server-side of web applications. They use programming languages such as Java, Python, or PHP to create efficient and scalable back-end systems. Requirements: Bachelor's degree in Computer Science or related field, at least 3 years of experience in back-end development, proficiency in programming languages such as Java, Python, or PHP, experience with back-end frameworks such as Spring or Django, strong problem-solving and analytical skills, excellent communication and collaboration skills.

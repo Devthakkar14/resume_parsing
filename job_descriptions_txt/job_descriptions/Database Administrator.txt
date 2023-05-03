@@ -1,0 +1,3 @@
+Database Administrator
+
+Job Description: A database administrator is responsible for managing and maintaining databases, ensuring data accuracy, and implementing data security protocols. They also troubleshoot database issues and optimize database performance. Requirements: Bachelor's degree in Computer Science or related field, at least 2 years of experience in database administration, proficiency in database management tools such as SQL Server or Oracle, experience in data security and backup protocols, excellent problem-solving and analytical skills, strong communication and collaboration skills.

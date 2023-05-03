@@ -1,0 +1,3 @@
+DevOps Engineer
+
+Job Description: A DevOps engineer is responsible for automating software development, testing, and deployment processes. They use tools such as Jenkins, Docker, or Kubernetes to create a continuous integration and delivery pipeline. Requirements: Bachelor's degree in Computer Science or related field, at least 3 years of experience in DevOps, proficiency in DevOps tools such as Jenkins, Docker, or Kubernetes, experience in infrastructure as code tools such as Terraform or CloudFormation, excellent problem-solving and analytical skills, strong communication and collaboration skills.

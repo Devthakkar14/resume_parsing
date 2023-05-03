@@ -1,0 +1,3 @@
+Data Analyst
+
+Job Description: A data analyst is responsible for collecting, analyzing, and interpreting large datasets to provide insights that support business decisions. They use statistical analysis tools such as R or Python to analyze data and create visualizations that communicate key findings. Requirements: Bachelor's degree in Mathematics, Statistics, Computer Science or related field, at least 2 years of experience in data analysis, proficiency in statistical analysis tools such as R or Python, experience in data visualization tools such as Tableau, excellent problem-solving and analytical skills, strong communication and collaboration skills.

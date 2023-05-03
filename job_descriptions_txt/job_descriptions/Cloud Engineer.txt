@@ -1,0 +1,3 @@
+Cloud Engineer
+
+Job Description: A cloud engineer is responsible for designing, building, and maintaining cloud-based infrastructure and applications. They work with cloud platforms such as AWS or Azure to create scalable, secure, and cost-effective solutions. Requirements: Bachelor's degree in Computer Science or related field, at least 3 years of experience in cloud engineering, proficiency in cloud platforms such as AWS or Azure, experience in infrastructure as code tools such as Terraform or CloudFormation, strong problem-solving and analytical skills, excellent communication and collaboration skills.

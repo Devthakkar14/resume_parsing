@@ -1,0 +1,3 @@
+Full-stack Developer
+
+Job Description: A full-stack developer is responsible for designing and developing both the front-end and back-end of web applications. They use a variety of programming languages and frameworks to create efficient and scalable web systems. Requirements: Bachelor's degree in Computer Science or related field, at least 3 years of experience in full-stack development, proficiency in front-end languages such as HTML, CSS, and JavaScript, proficiency in back-end languages such as Java, Python, or PHP, experience with full-stack frameworks such as MEAN or MERN, strong problem-solving and analytical skills, excellent communication and collaboration skills.

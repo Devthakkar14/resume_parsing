@@ -1,0 +1,3 @@
+Cybersecurity Analyst
+
+Job Description: A cybersecurity analyst is responsible for protecting computer systems and networks from cyber threats. They identify and prevent security breaches, monitor networks for suspicious activity, and develop and implement security policies and procedures. Requirements: Bachelor's degree in Computer Science or related field, at least 2 years of experience in cybersecurity, proficiency in security tools such as Nessus or Metasploit, experience in threat analysis and incident response, excellent problem-solving and analytical skills, strong communication and collaboration skills.
